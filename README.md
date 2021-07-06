@@ -3,4 +3,5 @@ There's a absolutely new Input Method Service that provides writing code constuc
 
 
 # APK
-just wait wor it
+download file:
+app-debug.apk
