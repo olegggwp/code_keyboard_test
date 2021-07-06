@@ -5,3 +5,6 @@ There's a absolutely new Input Method Service that provides writing code constuc
 # APK
 download file:
 [here](https://github.com/olegggwp/code_keyboard_test/raw/master/app-debug.apk)
+
+All rights reserved.
+created by olegggwp gang
