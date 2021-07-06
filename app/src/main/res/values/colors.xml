@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="keyBackground">#2A0370</color>
+    <color name="storm_dust">#5e5e5e</color>
+    <color name="aluminium">#a9acb3</color>
+    <color name="shark">#272727</color>
+    <color name="dove_gray">#686868</color>
+    <color name="dove_gray_light">#7E7E7E</color>
+    <color name="colorPrimaryDark">#7B1FA2</color>
+    <color name="colorAccent">#D32F2F</color>
+    <color name="blue">#303F9F</color>
+    <color name="driftwood">#b57f43</color>
+    <color name="mine_shaft">#2d2d2d</color>
+    <color name="picton_blue">#5eb7f7</color>
+    <color name="vulcan">#0e1621</color>
+    <color name="charade">#25303e</color>
+
+</resources>

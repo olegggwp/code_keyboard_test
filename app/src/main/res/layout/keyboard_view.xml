@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.txt_plgr.CodeKeyboardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/keyboard_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:background="@color/charade"
+    android:keyBackground="@drawable/corners_style"
+    android:keyPreviewLayout="@layout/key_preview"
+    android:keyTextSize="18sp"
+    android:textSize="18sp"
+    android:keyTextColor="@color/picton_blue"
+    android:labelTextSize="18sp"
+
+    >
+
+</com.example.txt_plgr.CodeKeyboardView>
+<!--    android:keyTextColor="@color/driftwood"-->
+
+
+    <!--    android:popupLayout="@layout/popup_layout"-->

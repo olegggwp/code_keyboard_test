@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:keyHeight="40dp"
+    android:horizontalGap="10dp"
+    android:verticalGap="1%p"
+    android:keyWidth="80dp"
+    >
+
+<!--    <Row>-->
+<!--        <Key android:codes="49" android:keyLabel=" 1" android:keyHeight="40dp" android:keyWidth="10%p" android:horizontalGap="1dp"/>-->
+<!--        <Key android:codes="50" android:keyLabel=" 2" android:keyHeight="40dp" android:keyWidth="10%p" android:horizontalGap="1dp"/>-->
+<!--        <Key android:codes="51" android:keyLabel=" 3" android:keyHeight="40dp" android:keyWidth="10%p" android:horizontalGap="1dp"/>-->
+<!--        <Key android:codes="52" android:keyLabel=" 4" android:keyHeight="40dp" android:keyWidth="10%p" android:horizontalGap="1dp"/>-->
+<!--        <Key android:codes="53" android:keyLabel=" 5" android:keyHeight="40dp" android:keyWidth="10%p" android:horizontalGap="1dp"/>-->
+<!--        <Key android:codes="54" android:keyLabel=" 6" android:keyHeight="40dp" android:keyWidth="10%p" android:horizontalGap="1dp"/>-->
+<!--        <Key android:codes="55" android:keyLabel=" 7" android:keyHeight="40dp" android:keyWidth="10%p" android:horizontalGap="1dp"/>-->
+<!--        <Key android:codes="56" android:keyLabel=" 8" android:keyHeight="40dp" android:keyWidth="10%p" android:horizontalGap="1dp"/>-->
+<!--        <Key android:codes="57" android:keyLabel=" 9" android:keyHeight="40dp" android:keyWidth="10%p" android:horizontalGap="1dp"/>-->
+<!--        <Key android:codes="48" android:keyLabel=" 0" android:keyHeight="40dp" android:keyWidth="10%p" android:horizontalGap="1dp"/>-->
+<!--        <Key android:codes="105" android:keyLabel=" i" android:keyHeight="40dp" android:keyWidth="10%p" android:horizontalGap="1dp"/>-->
+<!--        <Key android:codes="106" android:keyLabel=" j" android:keyHeight="40dp" android:keyWidth="10%p" android:horizontalGap="1dp"/>-->
+<!--        <Key android:codes="97" android:keyLabel=" a" android:keyHeight="40dp" android:keyWidth="10%p" android:horizontalGap="1dp"/>-->
+<!--        <Key android:codes="98" android:keyLabel=" b" android:keyHeight="40dp" android:keyWidth="10%p" android:horizontalGap="1dp"/>-->
+<!--        <Key android:codes="100" android:keyLabel=" d" android:keyHeight="40dp" android:keyWidth="10%p" android:horizontalGap="1dp"/>-->
+<!--        <Key android:codes="59" android:keyLabel=";" android:keyHeight="40dp" android:keyWidth="8%p" android:horizontalGap="1dp" android:keyEdgeFlags="right"/>-->
+<!--    </Row>-->
+
+    <Row>
+        <Key android:codes="10010" android:keyLabel="ll" android:keyWidth="10%p" android:keyEdgeFlags="left" />
+        <Key android:codes="10006" android:keyLabel="vec" />
+        <Key android:codes="10007" android:keyLabel="vec of v" android:elevation="100dp" />
+        <Key
+            android:codes="-5"
+            android:isRepeatable="true"
+            android:keyWidth="20%p"
+            android:keyIcon="@drawable/ic_backspace_white_24dp"
+            android:keyEdgeFlags="right"
+            />
+    </Row>
+
+    <Row>
+        <Key android:codes="10015" android:keyLabel="set" android:keyEdgeFlags="left" />
+        <Key android:codes="10016" android:keyLabel="pair" />
+        <Key android:codes="10003" android:keyLabel="if" />
+        <Key android:codes="10005" android:keyLabel="else" />
+    </Row>
+
+    <Row>
+        <Key android:codes="10017" android:keyLabel="map" android:keyEdgeFlags="left" />
+        <Key android:codes="10018" android:keyLabel="queue" />
+        <Key android:codes="10001" android:keyLabel="forn" />
+        <Key android:codes="10002" android:keyLabel="while" />
+    </Row>
+
+    <Row>
+        <Key
+            android:codes="20010"
+            android:isRepeatable="true"
+            android:keyEdgeFlags="left"
+            android:keyWidth="20%p"
+            android:elevation="10dp"
+            android:keyLabel="change"/>
+
+<!--        <Key-->
+<!--            android:codes="20030"-->
+<!--            android:isRepeatable="true"-->
+<!--            android:keyWidth="10%p"-->
+<!--            android:keyLabel="syb"/>-->
+
+
+        <Key
+            android:codes="20014"
+            android:isRepeatable="true"
+            android:keyWidth="10%p"
+            android:keyLabel="abc"/>
+
+        <Key
+            android:codes="20016"
+            android:isRepeatable="true"
+            android:keyWidth="10%p"
+            android:keyLabel="123"/>
+
+        <Key
+            android:codes="10031"
+            android:isRepeatable="true"
+            android:keyWidth="15%p"
+            android:keyLabel="Tab"/>
+
+        <Key
+            android:codes="10"
+            android:isRepeatable="true"
+            android:keyEdgeFlags="right"
+            android:keyWidth="20%p"
+            android:keyIcon="@drawable/ic_keyboard_return_white_24dp"
+            />
+
+
+    </Row>
+
+
+
+</Keyboard>

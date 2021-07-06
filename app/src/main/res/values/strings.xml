@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">txt_plgr</string>
+    <string name="cin_wth"><![CDATA[>>]]></string>
+    <string name="cout_wth"><![CDATA[<<]]></string>
+    <string name="st_def">def</string>
+</resources>
