@@ -5,4 +5,4 @@ There's a absolutely new Input Method Service that provides writing code constuc
 # APK
 download file:
 app-debug.apk
-[ssil](jd)
+[this](https://github.com/olegggwp/code_keyboard_test/raw/master/app-debug.apk)
